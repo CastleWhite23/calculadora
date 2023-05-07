@@ -52,6 +52,8 @@ export function addNumbersEvents() {
         numero.value += zero.innerText;
     })
 }
+
+
 export function addOperatorsEvents(){
     var soma = document.querySelector(".soma");
     var multi = document.querySelector(".multi");
